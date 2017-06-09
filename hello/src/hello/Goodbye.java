@@ -13,5 +13,6 @@ public class Goodbye {
 		System.out.println("love4");
 		System.out.println("love5");
 		System.out.println("love8");
+		System.out.println("love10");
 	}
 }
